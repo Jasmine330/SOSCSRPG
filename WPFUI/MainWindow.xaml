@@ -22,7 +22,7 @@
         <Label Grid.Row="1" Grid.Column="0" Content="Player Data" Background="Aquamarine"></Label>
         <Label Grid.Row="1" Grid.Column="1" Content="Game Data" Background="Beige"></Label>
         <Label Grid.Row="1" Grid.Column="1" Content="Inventory/Quest" Background="BurlyWood"></Label>
-        <Label Grid.Row="2" Grid.Column="1" Content="Comnat/Movement Controls" Background="Lavender"></Label>
+        <Label Grid.Row="2" Grid.Column="1" Content="Combat/Movement Controls" Background="Lavender"></Label>
         
         
     </Grid>
